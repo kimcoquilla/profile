@@ -21,7 +21,7 @@ p {
 
 h2 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  color: #30FF5E;
+  color: #09210e;
 }
 
 a {
@@ -52,6 +52,7 @@ a:hover {
 }
 .list > li {
   display: inline-block;
+  font-size: 30px;
 }
 
 .list {
