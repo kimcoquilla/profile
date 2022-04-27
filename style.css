@@ -58,6 +58,7 @@ a:hover {
 .list {
   list-style: none;
   padding-left: 0px;
+  font-size: 30px;
 }
 
 .btn-link {
